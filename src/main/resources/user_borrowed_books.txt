@@ -1,0 +1,9 @@
+-------- User Data --------
+User: Jacek, ID: 0001
+-------- Currently Borrowed Books --------
+Charlie and the Chocolate Factory
+The Hobbit
+-------- Historical Borrowed Books --------
+Winnie The Pooh
+Charlie and the Chocolate Factory
+The Hobbit

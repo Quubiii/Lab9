@@ -1,0 +1,5 @@
+The Secret Garden,Frances Hodgson Burnett,9780141321066,15.3
+Charlie and the Chocolate Factory,Roald Dahl,9780141361536,17.2
+The Jungle java.Book,Rudyard Kipling,9780141325293,16.9
+Peter Pan,J.M. Barrie,9780141322575,8.56
+Little Women,Louisa May Alcott,9780147514011,19.2
